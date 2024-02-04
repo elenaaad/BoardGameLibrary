@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "AB4a2xRK0glr6Shzkanx8X4LRvZi5WO76YoIfHOisFo=",
+  "Source": "Adoption_website",
+  "BasePath": "_content/Adoption_website",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Adoption_website\\wwwroot",
+      "Source": "Adoption_website",
+      "ContentRoot": "C:\\Users\\elena\\source\\repos\\Adoption_website\\Adoption_website\\wwwroot\\",
+      "BasePath": "_content/Adoption_website",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\elena\\source\\repos\\Adoption_website\\Adoption_website\\wwwroot\\favicon.ico",
+      "SourceId": "Adoption_website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elena\\source\\repos\\Adoption_website\\Adoption_website\\wwwroot\\",
+      "BasePath": "_content/Adoption_website",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

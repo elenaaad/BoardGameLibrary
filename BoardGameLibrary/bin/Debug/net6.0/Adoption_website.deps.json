@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Adoption_website/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.SpaProxy": "6.0.13"
+        },
+        "runtime": {
+          "Adoption_website.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.SpaProxy/6.0.13": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.SpaProxy.dll": {
+            "assemblyVersion": "6.0.13.0",
+            "fileVersion": "6.0.1322.58013"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adoption_website/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.SpaProxy/6.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0wDJ/etOQpxek3o3JOHk+pbXL0toT3ILKq1+R4YyqOSu/D/6tObykwB65OAPcJAGC8vkZRTiafRHDQnptLpnFg==",
+      "path": "microsoft.aspnetcore.spaproxy/6.0.13",
+      "hashPath": "microsoft.aspnetcore.spaproxy.6.0.13.nupkg.sha512"
+    }
+  }
+}
