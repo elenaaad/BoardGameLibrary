@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T6it0m1kraPwHkLODCJfDdUHnYhcsJmttW9ftRDRBWM=",
+  "Hash": "8nGgeLwhHYJBLoB2CU3cw2etp6I6y4THGh9RWhmUl8Q=",
   "Source": "BoardGameLibrary",
   "BasePath": "_content/BoardGameLibrary",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BoardGameLibrary\\wwwroot",
       "Source": "BoardGameLibrary",
-      "ContentRoot": "C:\\Users\\elena\\OneDrive\\Desktop\\.NET\\BoardGameLibrary\\BoardGameLibrary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\elena\\source\\repos\\ProiectBGNET\\BoardGameLibrary\\wwwroot\\",
       "BasePath": "_content/BoardGameLibrary",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\elena\\OneDrive\\Desktop\\.NET\\BoardGameLibrary\\BoardGameLibrary\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\elena\\source\\repos\\ProiectBGNET\\BoardGameLibrary\\wwwroot\\favicon.ico",
       "SourceId": "BoardGameLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\elena\\OneDrive\\Desktop\\.NET\\BoardGameLibrary\\BoardGameLibrary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\elena\\source\\repos\\ProiectBGNET\\BoardGameLibrary\\wwwroot\\",
       "BasePath": "_content/BoardGameLibrary",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

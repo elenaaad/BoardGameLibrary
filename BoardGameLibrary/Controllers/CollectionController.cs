@@ -99,9 +99,9 @@ namespace BoardGameLibrary.Controllers
             return NoContent();
         }
 
-        private bool CollectionExists(Guid id)
-        {
-            return (_context.Collections?.Any(e => e.Id == id)).GetValueOrDefault();
-        }
+        //private bool CollectionExists(Guid id)
+        //{
+        //    return (_context.Collections?.Any(e => e.Id == id)).GetValueOrDefault();
+        //}
     }
 }

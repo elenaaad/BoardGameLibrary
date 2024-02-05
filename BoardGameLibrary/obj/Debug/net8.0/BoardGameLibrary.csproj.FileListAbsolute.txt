@@ -154,9 +154,9 @@ C:\Users\elena\source\repos\ProiectBGNET\BoardGameLibrary\bin\Debug\net8.0\Swash
 C:\Users\elena\source\repos\ProiectBGNET\BoardGameLibrary\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\elena\source\repos\ProiectBGNET\BoardGameLibrary\obj\Debug\net8.0\BoardGameLibrary.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\elena\source\repos\ProiectBGNET\BoardGameLibrary\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\elena\OneDrive\Desktop\.NET\BoardGameLibrary\BoardGameLibrary\bin\Debug\net8.0\spa.proxy.json
 C:\Users\elena\OneDrive\Desktop\.NET\BoardGameLibrary\BoardGameLibrary\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\elena\OneDrive\Desktop\.NET\BoardGameLibrary\BoardGameLibrary\bin\Debug\net8.0\appsettings.json
-C:\Users\elena\OneDrive\Desktop\.NET\BoardGameLibrary\BoardGameLibrary\bin\Debug\net8.0\spa.proxy.json
 C:\Users\elena\OneDrive\Desktop\.NET\BoardGameLibrary\BoardGameLibrary\bin\Debug\net8.0\BoardGameLibrary.staticwebassets.runtime.json
 C:\Users\elena\OneDrive\Desktop\.NET\BoardGameLibrary\BoardGameLibrary\bin\Debug\net8.0\BoardGameLibrary.exe
 C:\Users\elena\OneDrive\Desktop\.NET\BoardGameLibrary\BoardGameLibrary\bin\Debug\net8.0\BoardGameLibrary.deps.json

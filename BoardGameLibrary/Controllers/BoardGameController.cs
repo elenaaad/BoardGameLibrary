@@ -119,9 +119,9 @@ namespace BoardGameLibrary.Controllers
             return NoContent();
         }
 
-        private bool BoardGameExists(Guid id)
-        {
-            return (_context.BoardGames?.Any(e => e.Id == id)).GetValueOrDefault();
-        }
+        //private bool BoardGameExists(Guid id)
+        //{
+        //    return (_context.BoardGames?.Any(e => e.Id == id)).GetValueOrDefault();
+        //}
     }
 }

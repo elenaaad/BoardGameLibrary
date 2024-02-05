@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "Adoption_website": {
+    "BoardGameLibrary": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -69,10 +69,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "Adoption_website:build:production"
+              "browserTarget": "BoardGameLibrary:build:production"
             },
             "development": {
-              "browserTarget": "Adoption_website:build:development",
+              "browserTarget": "BoardGameLibrary:build:development",
               "proxyConfig": "proxy.conf.js"
             }
           },
@@ -81,7 +81,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "Adoption_website:build"
+            "browserTarget": "BoardGameLibrary:build"
           }
         },
         "test": {
@@ -129,7 +129,7 @@
       }
     }
   },
-  "defaultProject": "Adoption_website",
+  "defaultProject": "BoardGameLibrary",
   "cli": {
     "analytics": false
   }
