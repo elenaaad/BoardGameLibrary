@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FrjWer+GqK+BKPmPAYcPlG+D91e1ml3v7RD9B1kledmxc2rU0NXwqQsxUY1Di+ruZvN4yasloa8C7Z7Xr7eX3g==",
+  "dgSpecHash": "FGEnbltl7I7p/NfMfPRL8Iukf0838cu34ru9rxJz/6aIn4aftWR41AkTwUaisA7ACFhIYrLrk/ca5XsPcWi0Hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elena\\source\\repos\\ProiectBGNET\\BoardGameLibrary\\BoardGameLibrary.csproj",
+  "projectFilePath": "C:\\Users\\elena\\OneDrive\\Desktop\\.NET\\BoardGameLibrary\\BoardGameLibrary\\BoardGameLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elena\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\elena\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

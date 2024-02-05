@@ -9222,11 +9222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elena\\source\\repos\\ProiectBGNET\\BoardGameLibrary\\BoardGameLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\elena\\OneDrive\\Desktop\\.NET\\BoardGameLibrary\\BoardGameLibrary\\BoardGameLibrary.csproj",
       "projectName": "BoardGameLibrary",
-      "projectPath": "C:\\Users\\elena\\source\\repos\\ProiectBGNET\\BoardGameLibrary\\BoardGameLibrary.csproj",
+      "projectPath": "C:\\Users\\elena\\OneDrive\\Desktop\\.NET\\BoardGameLibrary\\BoardGameLibrary\\BoardGameLibrary.csproj",
       "packagesPath": "C:\\Users\\elena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elena\\source\\repos\\ProiectBGNET\\BoardGameLibrary\\obj\\",
+      "outputPath": "C:\\Users\\elena\\OneDrive\\Desktop\\.NET\\BoardGameLibrary\\BoardGameLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elena\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9243,8 +9243,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\elena\\source\\repos\\ProiectBGNET\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\elena\\source\\repos\\ProiectBGNET\\DAL\\DAL.csproj"
+            "C:\\Users\\elena\\OneDrive\\Desktop\\.NET\\BoardGameLibrary\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\elena\\OneDrive\\Desktop\\.NET\\BoardGameLibrary\\DAL\\DAL.csproj"
             }
           }
         }

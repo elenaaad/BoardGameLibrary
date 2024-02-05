@@ -8428,11 +8428,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elena\\source\\repos\\ProiectBGNET\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\elena\\OneDrive\\Desktop\\.NET\\BoardGameLibrary\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\elena\\source\\repos\\ProiectBGNET\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\elena\\OneDrive\\Desktop\\.NET\\BoardGameLibrary\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\elena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elena\\source\\repos\\ProiectBGNET\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\elena\\OneDrive\\Desktop\\.NET\\BoardGameLibrary\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elena\\AppData\\Roaming\\NuGet\\NuGet.Config",

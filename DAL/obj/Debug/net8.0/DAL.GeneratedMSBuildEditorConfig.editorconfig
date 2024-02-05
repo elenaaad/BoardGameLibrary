@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DAL
-build_property.ProjectDir = C:\Users\elena\source\repos\ProiectBGNET\DAL\
+build_property.ProjectDir = C:\Users\elena\OneDrive\Desktop\.NET\BoardGameLibrary\DAL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
